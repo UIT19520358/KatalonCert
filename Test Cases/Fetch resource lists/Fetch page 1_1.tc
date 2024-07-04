@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fetch page 1_1</name>
+   <tag>API1</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>718f6823-0de8-4e2e-b8f9-9caf550d706b</testCaseGuid>
+</TestCaseEntity>

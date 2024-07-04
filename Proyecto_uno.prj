@@ -4,9 +4,12 @@
    <name>Proyecto_uno</name>
    <tag></tag>
    <UUID>646e9331-9d4b-4168-a4ce-df68aac2bf77</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.6.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\javie\git\KatalonCert\Proyecto_uno.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\SEI\git\KatalonCert\Proyecto_uno.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

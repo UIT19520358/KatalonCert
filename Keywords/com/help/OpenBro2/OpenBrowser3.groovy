@@ -21,7 +21,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class OpenBrowser3 {
-	
+
 	@Keyword
 	public void Navegar(String url, Integer t) {
 		WebUI.openBrowser("")

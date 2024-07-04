@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='q']</value>
+         <value>//input</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,6 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,6 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>e4c63f7d-c91c-43ff-8696-9af1e843a9b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>gLFyf gsfi</value>
+      <webElementGuid>127a4797-5767-4cd0-96f5-7f0124166e91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +39,7 @@
       <name>jsaction</name>
       <type>Main</type>
       <value>paste:puy29d;</value>
+      <webElementGuid>488cdd62-6e6c-4e42-a150-57a78530139f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +47,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>2048</value>
+      <webElementGuid>f0e39c9f-96fc-4e85-aaa2-80e1b843ae78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,6 +55,7 @@
       <name>name</name>
       <type>Main</type>
       <value>q</value>
+      <webElementGuid>0c764808-66a0-488d-89f0-02f9e64376d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,6 +63,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
+      <webElementGuid>0f722f4b-973d-485a-a59d-822775a3cea1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,6 +71,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>both</value>
+      <webElementGuid>f55bd49c-0893-4764-bcc8-37b63433a6e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,6 +79,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>7e34cf8a-ef14-48fb-8efe-e6f3977ef05d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,6 +87,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>off</value>
+      <webElementGuid>4f6cbace-7ed5-46c2-893c-c31738f29b9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,6 +95,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
+      <webElementGuid>abcb3a58-f735-4753-9f0b-925621cd5507</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,6 +103,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
+      <webElementGuid>17e08499-45d4-4d8c-9334-ee0e9a70f4df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -99,6 +111,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
+      <webElementGuid>5046c26a-1667-4d8e-b97b-6d11845ecb5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -106,6 +119,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>19913029-f6fe-4419-9a68-dc296a98e9e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -113,6 +127,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Buscar</value>
+      <webElementGuid>8464cd78-eaad-468c-9e75-832cc634bae7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -120,6 +135,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Buscar</value>
+      <webElementGuid>dbfa2424-fe83-443b-947c-3b5ee98c80c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -127,6 +143,7 @@
       <name>data-ved</name>
       <type>Main</type>
       <value>0ahUKEwiYidSV5J3yAhV1LH0KHXnsAv4Q39UDCAQ</value>
+      <webElementGuid>5b55eddd-4be8-45a8-87fc-5bf9005a7f68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,6 +151,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;L3eUgb&quot;]/div[@class=&quot;o3j99 ikrT4e om7nvf&quot;]/form[1]/div[1]/div[@class=&quot;A8SBwf&quot;]/div[@class=&quot;RNNXgb&quot;]/div[@class=&quot;SDkEP&quot;]/div[@class=&quot;a4bIc&quot;]/input[@class=&quot;gLFyf gsfi&quot;]</value>
+      <webElementGuid>7f5393fa-2d5c-49c3-99f8-cea69beca942</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -141,6 +159,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='q']</value>
+      <webElementGuid>0a5436d1-7277-44fb-89e6-c296df504843</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,5 +167,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
+      <webElementGuid>3fe60acd-d860-4987-aee6-21d2476f8a68</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

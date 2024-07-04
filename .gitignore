@@ -2,3 +2,8 @@
 /reports/
 bin
 reports
+/Libs/
+/.settings/
+/.classpath
+.svn/
+.cache/
